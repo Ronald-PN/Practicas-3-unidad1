@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\Practicas 3 unidad1\Practica_3_Problema_1_Tema_1_\Practica_3_Problema_1_Tema_1_\bin\Debug\Practica_3_Problema_1_Tema_1_.exe.config
+C:\Users\pc\Desktop\Practicas 3 unidad1\Practica_3_Problema_1_Tema_1_\Practica_3_Problema_1_Tema_1_\bin\Debug\Practica_3_Problema_1_Tema_1_.exe
+C:\Users\pc\Desktop\Practicas 3 unidad1\Practica_3_Problema_1_Tema_1_\Practica_3_Problema_1_Tema_1_\bin\Debug\Practica_3_Problema_1_Tema_1_.pdb
+C:\Users\pc\Desktop\Practicas 3 unidad1\Practica_3_Problema_1_Tema_1_\Practica_3_Problema_1_Tema_1_\obj\Debug\Practica_3_Problema_1_Tema_1_.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Practicas 3 unidad1\Practica_3_Problema_1_Tema_1_\Practica_3_Problema_1_Tema_1_\obj\Debug\Practica_3_Problema_1_Tema_1_.exe
+C:\Users\pc\Desktop\Practicas 3 unidad1\Practica_3_Problema_1_Tema_1_\Practica_3_Problema_1_Tema_1_\obj\Debug\Practica_3_Problema_1_Tema_1_.pdb

@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\Practicas 3 unidad1\Pratica 3 problema 2 tema 1\Ejercicio_3_Problema_2_Tema_1\Ejercicio_3_Problema_2_Tema_1\bin\Debug\Ejercicio_3_Problema_2_Tema_1.exe.config
+C:\Users\pc\Desktop\Practicas 3 unidad1\Pratica 3 problema 2 tema 1\Ejercicio_3_Problema_2_Tema_1\Ejercicio_3_Problema_2_Tema_1\bin\Debug\Ejercicio_3_Problema_2_Tema_1.exe
+C:\Users\pc\Desktop\Practicas 3 unidad1\Pratica 3 problema 2 tema 1\Ejercicio_3_Problema_2_Tema_1\Ejercicio_3_Problema_2_Tema_1\bin\Debug\Ejercicio_3_Problema_2_Tema_1.pdb
+C:\Users\pc\Desktop\Practicas 3 unidad1\Pratica 3 problema 2 tema 1\Ejercicio_3_Problema_2_Tema_1\Ejercicio_3_Problema_2_Tema_1\obj\Debug\Ejercicio_3_Problema_2_Tema_1.exe
+C:\Users\pc\Desktop\Practicas 3 unidad1\Pratica 3 problema 2 tema 1\Ejercicio_3_Problema_2_Tema_1\Ejercicio_3_Problema_2_Tema_1\obj\Debug\Ejercicio_3_Problema_2_Tema_1.pdb
